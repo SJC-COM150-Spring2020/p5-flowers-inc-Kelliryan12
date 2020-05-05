@@ -1,0 +1,14 @@
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe.config
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.pdb
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.xml
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbprojResolveAssemblyReference.cache
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.MainMenu.resources
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Resources.resources
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbproj.GenerateResource.Cache
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.exe
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.xml
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.pdb
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Quiz.resources
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Bouquet.resources
+C:\Users\loaner\Documents\Visual Studio 2015\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Checkout.resources
